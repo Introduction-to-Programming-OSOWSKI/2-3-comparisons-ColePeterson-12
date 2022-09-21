@@ -1,6 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
-from tkinter import Y
-
 
 def greaterThan(x,y):
     if x>y:
