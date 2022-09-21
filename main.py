@@ -6,7 +6,7 @@ def greaterThan(x,y):
         return False
 
 def lessThan(x,y):
-    if x<Y:
+    if x<y:
         return True
     else:
         return False
